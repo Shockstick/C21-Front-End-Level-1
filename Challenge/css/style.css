@@ -1,0 +1,47 @@
+h1{
+color: cornflowerblue;
+font-size: large;
+font-family: sans-serif;
+}
+img {
+    width: 400px;
+    height:auto;
+}
+li{
+color: brown;
+font-family: initial;
+
+}
+ol{
+color: blue;
+
+}
+.geel{
+width: 400px;
+height:auto;
+}
+.blauw{
+width: 200px;
+height: auto;
+flex-direction: column-reverse;
+}
+.rood{
+color: orange;
+text-align: end;
+
+}
+.groen{
+color: red;
+text-align: end;
+
+}
+.roze{
+text-align: end;
+}
+.lichtgroen{
+text-align: end;
+}
+.pink{
+color: orange;
+}
+
